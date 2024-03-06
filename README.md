@@ -1,7 +1,7 @@
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRCxl7GGxflQoamqaucgrH0IikHkeGrPHycfiCBAN8lU4ES7LEPkhwMOKkctGsQvP9kZXP3J5qN-xVAItkFi0er8kuJs26gVf2kwAjKcl7EeLvBSkwXveqWpWMx_kD8lryE1hmUdyk6HWJCNo_eaJ7GjoyW6UQVEfddVUJWdbrID7p30qxB3p3B22y/w675-h200/Android%20Devs%20Banner%20.png"  width="100% "/>
 
 <h1 align="center">Hi 👋, I'm DHRUV MASHRU</h1>
-<h3 align="center">A suitable Hard working and passionate IT Engineer. Having a good understanding of programming with solid minimum required Skills. Having a great knowledge of the programming.</h3>
+<h3 align="center">A suitable Hard working and passionate IT Engineer. Having a good understanding of programming with solid minimum required Skills. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DhruvkumarMashru&label=Profile%20views&color=0e75b6&style=flat" alt="DhruvkumarMashru" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DhruvkumarMashru&theme=dark_lover" alt="DhruvkumarMashru" /></a> </p>
